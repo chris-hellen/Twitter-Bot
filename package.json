@@ -1,0 +1,21 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twitter-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node twitter-bot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^5.0.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "mongodb": "^5.7.0",
+    "node-cron": "^3.0.2",
+    "twitter-api-v2": "^1.15.1"
+  }
+}
